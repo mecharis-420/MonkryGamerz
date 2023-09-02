@@ -3,6 +3,7 @@ form {
     display: inline-block;
     font-size: 0;
     margin-top: 2in;
+    text-align: center;
   }
   
   .proxy {
